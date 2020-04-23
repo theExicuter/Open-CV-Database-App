@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581564664940",
+    "firebase_url": "https://open-cv-91a52.firebaseio.com",
+    "project_id": "open-cv-91a52",
+    "storage_bucket": "open-cv-91a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581564664940:android:11daa7629a2ac4da589c49",
+        "android_client_info": {
+          "package_name": "com.example.opencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581564664940-9dsbrnqunqmd0e4hqlke6qnjcc95o4sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opencv",
+            "certificate_hash": "1bad0cbb22a902e379b50b4463e4db152b7a492f"
+          }
+        },
+        {
+          "client_id": "581564664940-3bo7ivsi4uecpfac8t14bh90skr0o3nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfI3G6QhTV7MjJs4Pu6uXqHyLTQRS9JHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581564664940-3bo7ivsi4uecpfac8t14bh90skr0o3nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/banner"
+        android:layout_marginTop="100dp"
+        />
+
+    <Button
+        android:id="@+id/searchbio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/edittext_backgroud"
+        android:text="Search"
+        android:textColor="@color/colorPrimary" />
+    <Button
+        android:id="@+id/editbio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edittext_backgroud"
+        android:text="Complete your Bio"
+        android:textColor="@color/colorPrimary" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/edittext_backgroud"
+        android:textColor="@color/colorPrimary"
+        android:text="View your Bio"
+        android:id="@+id/viewbio"
+        />
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal"
+         android:layout_marginTop="50dp">
+    <TextView
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:layout_marginTop="60dp"
+        android:id="@+id/about"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="14sp"
+        />
+         <TextView
+             android:layout_width="190dp"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="60dp"
+             android:text="Sign Out"
+             android:textColor="@color/colorPrimary"
+             android:textSize="14sp"
+             android:id="@+id/signout"
+             android:textAlignment="center"
+             />
+
+</LinearLayout>
+
+
+
+</LinearLayout>
+
+
+
+
+
+
+
